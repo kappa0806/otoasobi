@@ -1,10 +1,10 @@
 const CACHE = 'otoasobi-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.svg',
-  '/icon-512.svg',
+  '/otoasobi/',
+  '/otoasobi/index.html',
+  '/otoasobi/manifest.json',
+  '/otoasobi/icon-192.svg',
+  '/otoasobi/icon-512.svg',
 ];
 
 self.addEventListener('install', e => {
